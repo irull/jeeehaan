@@ -1,4 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Jessy Hanifiah</h1>
+[![jeeehaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeehaan)](https://github.com/jeeehaan/github-readme-stats)
+
 
 <!--
 **jeeehaan/jeeehaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
