@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Jessy Hanifiah</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeehaan&show_icons=true&theme=radical)
+
 
 
 
