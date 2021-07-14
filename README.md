@@ -3,10 +3,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeehaan&&count_private=true&theme=radical" /> -->
 
 <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeeehaan&count_private=true&show_icons=true&theme=radical" />
+    <img align="left" height="175" src="https://github-readme-stats.vercel.app/api?username=jeeehaan&count_private=true&show_icons=true&theme=radical" />
   </a>
   <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeehaan&&count_private=true&theme=radical" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeehaan&&count_private=true&theme=radical" />
   </a>
   
 
