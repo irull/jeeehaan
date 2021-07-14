@@ -1,6 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Jessy Hanifiah</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=jeeehaan&count_private=true&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeehaan&&count_private=true&theme=radical" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jeeehaan&count_private=true&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeehaan&&count_private=true&theme=radical" /> -->
+
+<a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeeehaan&count_private=true&show_icons=true&theme=radical" />
+  </a>
+  <a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeehaan&&count_private=true&theme=radical" />
+  </a>
+  
 
 
 
