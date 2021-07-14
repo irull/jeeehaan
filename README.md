@@ -6,7 +6,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=jeeehaan&count_private=true&show_icons=true&theme=radical" />
   </a>
   <a href="">
-    <img align="right" height="195" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeehaan&&count_private=true&theme=radical" />
+    <img align="right" height="195" width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeehaan&&count_private=true&theme=radical" />
   </a>
   
 
