@@ -9,9 +9,18 @@
     <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeehaan&&count_private=true&theme=radical" />
  </a>
  
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=huddle-landing-page&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=3-column-preview-card-component&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=intro-component-with-signup-form&theme=radical" />
+<!-- frontend -->
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=huddle-landing-page&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=3-column-preview-card-component&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=intro-component-with-signup-form&theme=radical" />
+</div>
+<!-- end frontend  -->
+
+<!-- backend  -->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=laravel-blog&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=rest-api-authentication-example&theme=radical" />
+<!-- endbackend  -->
 
 
 
