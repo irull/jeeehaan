@@ -18,8 +18,10 @@
 <!-- end frontend  -->
 
 <!-- backend  -->
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=laravel-blog&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=rest-api-authentication-example&theme=radical" />
+    <div align="right">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=laravel-blog&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=rest-api-authentication-example&theme=radical" />
+    </div>
 <!-- endbackend  -->
 
 
