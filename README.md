@@ -1,22 +1,20 @@
 <h1 align="center">Hi there 👋, I'm Jessy Hanifiah</h1>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=jeeehaan&count_private=true&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeehaan&&count_private=true&theme=radical" /> -->
+<!-- github stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=jeeehaan&count_private=true&show_icons=true&theme=radical" />
+<!--  top langs -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeehaan&&count_private=true&theme=radical" />
+<!-- pinned -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=huddle-landing-page&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=3-column-preview-card-component&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=intro-component-with-signup-form&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=laravel-blog&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=rest-api-authentication-example&theme=radical" />
 
-<a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeeehaan&count_private=true&show_icons=true&theme=radical" />
-  </a>
- <a href="">
-    <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeehaan&&count_private=true&theme=radical" />
- </a>
+
  
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=huddle-landing-page&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=3-column-preview-card-component&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=intro-component-with-signup-form&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=laravel-blog&theme=radical" />
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=rest-api-authentication-example&theme=radical" />
-</div>
+
+   
 
 
 
