@@ -9,7 +9,7 @@
     <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeehaan&&count_private=true&theme=radical" />
  </a>
  
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=huddle-landing-page" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=huddle-landing-page&theme=radical" />
 
 
 <!--
