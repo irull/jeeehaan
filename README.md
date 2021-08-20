@@ -26,6 +26,8 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=product-landing-page&theme=radical" />
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=rest-api-authentication-example&theme=radical" /> 
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=sorting-algorithm&theme=radical" />
+           <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=QoDe&theme=radical" />
+           <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeeehaan&repo=sistem-informasi-pegawai&theme=radical" />
         </div>
 
 
