@@ -12,7 +12,7 @@
             <div id="content">
                 <h1>Languages Stats</h1>
                 <p></p>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeehaan&&count_private=true&theme=radical" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeehaan&langs_count=10&count_private=true&theme=radical" />
             </div>
  
   <div class="container">
